@@ -1,4 +1,4 @@
-import { apiInitializer } from "discourse/lib/api";
+/*import { apiInitializer } from "discourse/lib/api";
 
 export default apiInitializer("0.8", (api) => {
   document.body.classList.add("full-width-enabled");
@@ -14,3 +14,4 @@ export default apiInitializer("0.8", (api) => {
     }
   );
 });
+*/
